@@ -65,3 +65,7 @@ The upside is that this works even for more complicated fractions (try implement
 
 BCD Conversion
 https://www.exploringbinary.com/binary-converter/
+
+Tools
+http://www.devrs.com/gb/hmgd/gbtd.html
+http://www.devrs.com/gb/hmgd/gbmb.html
